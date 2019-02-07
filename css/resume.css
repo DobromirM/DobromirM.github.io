@@ -198,3 +198,11 @@ a {
 a:hover, a:focus, a:active {
   color: #824027;
 }
+
+#cv{
+  font-weight: bold;
+}
+
+#cv:hover {
+  text-decoration: none;
+}
